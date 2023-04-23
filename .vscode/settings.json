@@ -28,7 +28,8 @@
     "files.exclude": {
         "**/.vs": true,
         "**/bin": true,
-        "**/obj": true
+        "**/obj": true,
+        "**/target": true
     },
     "files.insertFinalNewline": true,
     "markdownlint.config": {
